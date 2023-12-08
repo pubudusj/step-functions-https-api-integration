@@ -1,7 +1,9 @@
 
-# Welcome to your CDK Python project!
+# Step Functions - Call 3rd party APIs within workflows
 
-This is a blank project for CDK development with Python.
+This project contains the source code to deploy the system detailed in below blog post. To be deployed using CDK with Python.
+
+[Blog Post Link]
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
