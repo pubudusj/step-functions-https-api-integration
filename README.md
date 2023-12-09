@@ -3,7 +3,7 @@
 
 This project contains the source code to deploy the system detailed in below blog post. To be deployed using CDK with Python.
 
-[Blog Post Link]
+https://medium.com/@pubudusj/call-external-apis-with-oauth-within-step-functions-2109582906a3
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
